@@ -1,4 +1,4 @@
-# Analyzing Stock Performance and Building Dashboard
+# Stock Market Insights Dashboard 💹: Analyzing Stock Performance and Building Dashboard
 
 ## Objective:
 The goal of this project is to extract financial data, such as historical share prices and quarterly revenue reports, from various sources using Python libraries and web scraping on popular stocks. 
